@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "140045485210",
+    "firebase_url": "https://ecoswap-ed5b8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ecoswap-ed5b8",
+    "storage_bucket": "ecoswap-ed5b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140045485210:android:452770fcd1ae0fef3dcb23",
+        "android_client_info": {
+          "package_name": "com.example.ecoswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140045485210-iso5hmgg0klioufcsbn0avb9s0osm3bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoswap",
+            "certificate_hash": "c59f081502b3c124bf5ebdc1935aa17151cc547b"
+          }
+        },
+        {
+          "client_id": "140045485210-jakia6r89lg60gudrv0ka2k8s51asthm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoswap",
+            "certificate_hash": "d09ab271d9001c14d313a728feb5b06b73171aa7"
+          }
+        },
+        {
+          "client_id": "140045485210-uae3o0nq92v4vgc8ian0ophq6u0hb74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWmwpB37QpxUqmGVEBv1Updi3VLYegrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140045485210-uae3o0nq92v4vgc8ian0ophq6u0hb74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

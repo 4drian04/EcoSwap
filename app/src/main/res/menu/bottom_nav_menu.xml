@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/nav_exchanges"
+        android:icon="@drawable/apreton_de_manos"
+        android:title="Intercambios" />
+
+    <item
+        android:id="@+id/nav_pending"
+        android:icon="@drawable/deuda_icono"
+        android:title="Pendientes" />
+
+
+    <item
+        android:id="@+id/nav_chats"
+        android:icon="@drawable/ic_chat"
+        android:title="Chats" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Perfil" />
+</menu>
