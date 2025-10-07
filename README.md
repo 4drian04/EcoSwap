@@ -8,11 +8,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/user-attachments/assets/725caab5-8efc-47b1-96d1-8ab256822747" alt="project-screenshot" width="150" height="250/">
+<img src="https://github.com/user-attachments/assets/725caab5-8efc-47b1-96d1-8ab256822747" alt="project-screenshot" width="150" height="450/">
 
-<img src="https://github.com/user-attachments/assets/83cb295d-be4a-4d56-b6d3-b5e76e4cd4a3" alt="project-screenshot" width="150" height="250/">
+<img src="https://github.com/user-attachments/assets/83cb295d-be4a-4d56-b6d3-b5e76e4cd4a3" alt="project-screenshot" width="150" height="450/">
 
-<img src="https://github.com/user-attachments/assets/97c5680b-df71-4b46-a1ce-1a5c7816d9db" alt="project-screenshot" width="150" height="250/">
+<img src="https://github.com/user-attachments/assets/97c5680b-df71-4b46-a1ce-1a5c7816d9db" alt="project-screenshot" width="150" height="450/">
 
   
   
