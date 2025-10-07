@@ -8,6 +8,8 @@
 
 <h2>Project Screenshots:</h2>
 
+<img src="https://github.com/user-attachments/assets/f080f6d5-7466-4f1e-b6cc-c5069e1635fe" alt="project-screenshot" width="150" height="350/">
+
 <img src="https://github.com/user-attachments/assets/725caab5-8efc-47b1-96d1-8ab256822747" alt="project-screenshot" width="150" height="350/">
 
 <img src="https://github.com/user-attachments/assets/83cb295d-be4a-4d56-b6d3-b5e76e4cd4a3" alt="project-screenshot" width="150" height="350/">
@@ -24,6 +26,7 @@ Here're some of the project's best features:
 *   📤Upload products: The user will have the possibility to upload the products that he no longer wants to exchange them for another one that he wants.
 *   🎯 Real-Time Communication: Built-in chat and notification systems for engaging user interactions.
 *   🔔Notification System: Receive real-time notifications if someone has accepted a trade or if you have a message...
+*   🌟Rating system: Users will be able to rate other users, thus improving the application experience.
 
   
   
