@@ -1,6 +1,6 @@
 <h1 align="center" id="title">EcoSwap</h1>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/cbf78e39-ed04-4ac5-8b4b-6d692342deaa?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/cbf78e39-ed04-4ac5-8b4b-6d692342deaa?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image" width="500" height="500"></p>
 
 <p id="description">Android application developed with Kotlin and Android Studios connecting it to Firebase where users can upload their products and exchange products with other users.</p>
 
