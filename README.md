@@ -14,6 +14,8 @@
 
 <img src="https://github.com/user-attachments/assets/83cb295d-be4a-4d56-b6d3-b5e76e4cd4a3" alt="project-screenshot" width="150" height="350/">
 
+<img src="https://github.com/user-attachments/assets/1d1f8b32-a385-45c6-94df-79903f18a84b" alt="project-screenshot" width="150" height="350/">
+
 <img src="https://github.com/user-attachments/assets/97c5680b-df71-4b46-a1ce-1a5c7816d9db" alt="project-screenshot" width="150" height="350/">
 
   
