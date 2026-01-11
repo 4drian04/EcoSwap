@@ -4,7 +4,7 @@
 
 <p id="description">Android application developed with Kotlin and Android Studios connecting it to Firebase where users can upload their products and exchange products with other users.</p>
 
-<p align="center"><img src="https://camo.githubusercontent.com/a78a67e9d3e5144782ab3af819ebafef65dea775261fdaa0328bd61178b15882/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d4231323545413f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465" alt="shields"><img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&amp;logo=android%20studio&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&amp;logo=android%20studio&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
